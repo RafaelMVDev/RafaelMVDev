@@ -1,16 +1,24 @@
-### Hi there 👋
+### Olá! Eu sou o Rafael! 👋
+### Bem vindo ao meu perfil do Github!
 
-<!--
-**RafaelMVDev/RafaelMVDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### FERRAMENTAS E TECNOLOGIAS - APRENDENDO
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+### SOBRE MIM
+- 🎂 Tenho 14 anos...
+- 🔭 Atualmente estou cursando o 9°ano do Ensino Fundamental...
+- 🌱 No momento, estou aprendendo Python! ...
+- 📫 Como entrar em contato comigo: rafaelmoralesvillela@gmail.com
+- 👨🏻‍💻 Possuo conhecimento básico de Python e Git!
 
-Here are some ideas to get you started:
+### JORNADA 🚀
+Tudo começou com o Roblox. Ao jogar os jogos da plataforma, surgiu uma curiosidade: Como eles eram feitos? Essa pergunta me levou a conhecer o Roblox Studio, e consequentemente, meu primeiro contato com uma linguagem de programação: LUA
+                               ![image](https://github.com/RafaelMVDev/M0RAVI/assets/120423829/41ffcb90-2a69-47c0-aeec-b0f555ff04ec)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Após alguns meses tentando aprender seus fundamentos e serviços, fui convidado por um amigo à aprender uma outra linguagem, o Python! Desde então busco aprimorar meus conhecimentos e práticas nessa linguagem, e atualmente sei ["✔️" para o que sei]: 
+![image](https://github.com/RafaelMVDev/M0RAVI/assets/120423829/a9a126c4-10f8-4d9d-aac3-bd63a10bf965)
+### ESTATÍSTICAS NO GITHUB 📈
+<div>
+<a href="https://github.com/M0RAVI">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M0RAVI&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=M0RAVI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
