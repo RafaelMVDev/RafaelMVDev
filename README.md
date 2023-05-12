@@ -19,6 +19,6 @@ Após alguns meses tentando aprender seus fundamentos e serviços, fui convidado
 ### ESTATÍSTICAS NO GITHUB 📈
 <div>
 <a href="https://github.com/M0RAVI">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M0RAVI&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=M0RAVI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMVDev&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelMVDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
