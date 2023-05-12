@@ -12,10 +12,11 @@
 
 ### JORNADA 🚀
 Tudo começou com o Roblox. Ao jogar os jogos da plataforma, surgiu uma curiosidade: Como eles eram feitos? Essa pergunta me levou a conhecer o Roblox Studio, e consequentemente, meu primeiro contato com uma linguagem de programação: LUA
-                               ![image](https://github.com/RafaelMVDev/M0RAVI/assets/120423829/41ffcb90-2a69-47c0-aeec-b0f555ff04ec)
+![image](https://github.com/RafaelMVDev/RafaelMVDev/assets/120423829/f1b8cdce-2823-48ad-bd07-831dd1477ac1)
+
 
 Após alguns meses tentando aprender seus fundamentos e serviços, fui convidado por um amigo à aprender uma outra linguagem, o Python! Desde então busco aprimorar meus conhecimentos e práticas nessa linguagem, e atualmente sei ["✔️" para o que sei]: 
-![image](https://github.com/RafaelMVDev/M0RAVI/assets/120423829/a9a126c4-10f8-4d9d-aac3-bd63a10bf965)
+![image](https://github.com/RafaelMVDev/RafaelMVDev/assets/120423829/a9a126c4-10f8-4d9d-aac3-bd63a10bf965)
 ### ESTATÍSTICAS NO GITHUB 📈
 <div>
 <a href="https://github.com/M0RAVI">
