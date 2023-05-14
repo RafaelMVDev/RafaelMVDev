@@ -15,7 +15,7 @@ Tudo começou com o Roblox. Ao jogar os jogos da plataforma, surgiu uma curiosid
 ![image](https://github.com/RafaelMVDev/RafaelMVDev/assets/120423829/f1b8cdce-2823-48ad-bd07-831dd1477ac1)
 
 
-Após alguns meses tentando aprender seus fundamentos e serviços, fui convidado por um amigo à aprender uma outra linguagem, o Python! Desde então busco aprimorar meus conhecimentos e práticas nessa linguagem, e atualmente sei ["✔️" para o que sei]: 
+Após alguns meses tentando aprender seus fundamentos e serviços, fui convidado por um amigo à aprender uma outra linguagem, o Python! Desde então busco aprimorar meus conhecimentos e práticas nessa linguagem.
 ![image](https://github.com/RafaelMVDev/RafaelMVDev/assets/120423829/a9a126c4-10f8-4d9d-aac3-bd63a10bf965)
 ### ESTATÍSTICAS NO GITHUB 📈
 <div>
