@@ -12,7 +12,7 @@
 - 👨🏻‍💻 Possuo conhecimento básico de Python e Git!
 
 ### JORNADA 🚀
-Tudo começou com o Roblox. Ao jogar os jogos da plataforma, surgiu uma curiosidade: Como eles eram feitos? Essa pergunta me levou a conhecer o Roblox Studio, e consequentemente, meu primeiro contato com uma linguagem de programação: LUA
+Tudo começou com o Roblox. Ao jogar os jogos da plataforma, surgiu uma curiosidade: Como eles eram feitos? Essa pergunta me levou a conhecer o Roblox Studio, e consequentemente, meu primeiro contato com uma linguagem de programação: LUA.
 ![image](https://github.com/RafaelMVDev/RafaelMVDev/assets/120423829/f1b8cdce-2823-48ad-bd07-831dd1477ac1)
 
 
