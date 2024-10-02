@@ -2,7 +2,7 @@
 ### Bem vindo ao meu perfil do Github!
 
 ### FERRAMENTAS E TECNOLOGIAS - APRENDENDO
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /> <img src = "https://cdn-icons-png.flaticon.com/512/919/919827.png" width = "40" height = "40"> <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTubSVnjsQ3W4Kojj6GZEj9DAOjwQMmvad_Iw&s" width = "40" height = "40"> <img src = "https://cdn.iconscout.com/icon/free/png-256/free-css-alt-3628710-3029935.png?f=webp&w=256" width = "40" height = "40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTubSVnjsQ3W4Kojj6GZEj9DAOjwQMmvad_Iw&s" width = "40" height = "40">  <img src = "https://cdn-icons-png.flaticon.com/512/919/919827.png" width = "40" height = "40">  <img src = "https://cdn-icons-png.flaticon.com/512/174/174854.png" width = "40" height = "40">
 ### SOBRE MIM
 - 🎂 Tenho 16 anos...
 - 🔭 Atualmente estou cursando o 1°ano do Ensino Técnico Integrado ao Médio...
