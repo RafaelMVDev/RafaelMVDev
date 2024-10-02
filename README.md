@@ -2,7 +2,7 @@
 ### Bem vindo ao meu perfil do Github!
 
 ### FERRAMENTAS E TECNOLOGIAS - APRENDENDO
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img src = "https://banner2.cleanpng.com/20171217/033/av2bv0zlf.webp" width = "40" height = "40">  <img src = "https://icons.veryicon.com/png/o/application/skills-section/css3-5.png" width = "40" height = "40">  <img src = "https://cdn-icons-png.flaticon.com/512/174/174854.png" width = "40" height = "40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img src = "https://banner2.cleanpng.com/20171217/033/av2bv0zlf.webp" width = "40" height = "40">  <img src = "https://cdn-icons-png.flaticon.com/512/174/174854.png" width = "40" height = "40"> <img src = "https://icons.veryicon.com/png/o/application/skills-section/css3-5.png" width = "50" height = "50">
 ### SOBRE MIM
 - 🎂 Tenho 16 anos...
 - 🔭 Atualmente estou cursando o 1°ano do Ensino Técnico Integrado ao Médio...
