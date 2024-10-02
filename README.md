@@ -9,7 +9,7 @@
 - 🏫 Estou estudando no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo...
 - 🌱 No momento, estou aprendendo Python! ...
 - 📫 Como entrar em contato comigo: rafaelmoralesvillela@gmail.com
-- 👨🏻‍💻 Possuo conhecimento básico de Python e Git!
+- 👨🏻‍💻 Possuo conhecimento básico de Python, C e Git!
 
 ### JORNADA 🚀
 Tudo começou com o Roblox. Ao jogar os jogos da plataforma, surgiu uma curiosidade: Como eles eram feitos? Essa pergunta me levou a conhecer o Roblox Studio, e consequentemente, meu primeiro contato com uma linguagem de programação: LUA.
