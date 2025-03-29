@@ -3,11 +3,7 @@
 ### Welcome to my GitHub profile!  
 
 # TOOLS & TECHNOLOGIES  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917" width="40" height="40" />  
-<img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="40" height="40" />  
-<img src="https://icons.veryicon.com/png/o/application/skills-section/css3-5.png" width="45" height="45" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917" width="40" height="40" />  <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="40" height="40" />  <img src="https://icons.veryicon.com/png/o/application/skills-section/css3-5.png" width="45" height="45" />  
 
 # ABOUT ME  
 - 🎂 I'm 16 years old...  
