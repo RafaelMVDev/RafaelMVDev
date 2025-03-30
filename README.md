@@ -19,7 +19,6 @@
 # ABOUT ME   
 - 🔭 Currently, I'm in the 2nd year of the Integrated Technical High School...  
 - 🏫 I'm studying at the Federal Institute of Education, Science, and Technology of São Paulo...  
-- 📫 How to contact me: rafaelmoralesvillela@gmail.com  
 
 # GITHUB STATS 📈  
 <div>  
