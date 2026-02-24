@@ -1,28 +1,64 @@
-# Hello! I'm Rafael! 👋  
+# 🚀 Rafael Morales Villela  
 
-### Welcome to my GitHub profile!  
+## 👨‍💻 Software Development Student | Backend & Data Enthusiast  
 
-# TOOLS & TECHNOLOGIES  
+Welcome to my GitHub profile!  
+I'm passionate about technology, problem solving, and building impactful solutions through code.
+
+---
+
+## 🧠 About Me  
+
+🎓 3rd-year Integrated Technical High School Student  
+🏫 Federal Institute of Education, Science, and Technology of São Paulo (IFSP)  
+💡 Focused on Backend Development and Data  
+☁️ Cloud Computing enthusiast (AWS)  
+📊 Interested in Data Analysis & Data Science  
+
+I’m constantly improving my technical skills while also developing communication and professional positioning.
+
+---
+
+## 🛠️ Tools & Technologies  
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-# SOCIALS 
+---
+
+## 📈 GitHub Stats  
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=RafaelMVDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMVDev&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🌐 Connect with Me  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-morales-villela-9b7805276/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:rafaelmoralesvillela@gmail.com)
-# ABOUT ME   
-- 🔭 Currently, I'm in the 3rd year of the Integrated Technical High School...  
-- 🏫 I'm studying at the Federal Institute of Education, Science, and Technology of São Paulo...  
 
-# GITHUB STATS 📈  
-<div>  
-<a href="https://github.com/M0RAVI">  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMVDev&layout=compact&langs_count=7&theme=dracula"/>  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelMVDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
-</div>  
+---
+
+## 🎯 Current Goals  
+
+✔ Strengthen backend development skills  
+✔ Deepen knowledge in databases and SQL  
+✔ Advance in AWS and Cloud Architecture  
+✔ Prepare for internships in Backend or Data  
+
+---
+
+⭐ “Code is not just syntax — it's structured thinking.”
