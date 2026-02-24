@@ -37,9 +37,9 @@ I’m constantly improving my technical skills while also developing communicati
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=RafaelMVDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RafaelMVDev&show_icons=true" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMVDev&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RafaelMVDev&layout=compact" />
 
 </div>
 
