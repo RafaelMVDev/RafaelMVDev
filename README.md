@@ -33,7 +33,7 @@ I’m constantly improving my technical skills while also developing communicati
 
 ---
 
-## 📈 GitHub Stats  
+
 
 <div align="center">
 
