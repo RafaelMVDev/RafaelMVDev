@@ -37,8 +37,11 @@ I’m constantly improving my technical skills while also developing communicati
 
 <div align="center">
 
-<img src = "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelMVDev&theme=github_dark">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RafaelMVDev&layout=compact">
+## 📊 GitHub Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelMVDev&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafaelMVDev&theme=github_dark)
 
 </div>
 
