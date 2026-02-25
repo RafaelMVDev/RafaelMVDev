@@ -39,9 +39,10 @@ I’m constantly improving my technical skills while also developing communicati
 
 ## 📊 GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelMVDev&theme=github_dark)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelMVDev&theme=github_dark" width="48%" />
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafaelMVDev&theme=github_dark)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafaelMVDev&theme=github_dark" width="48%" />
+
 
 </div>
 
